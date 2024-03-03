@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "7e2df199-7696-482b-871e-11185ee3e6cd",
+      "userName": "Aditya Kumar",
+      "email": "aditya123@gmail.com"
+    },
+    {
+      "id": "39aaf565-fe67-4756-bc7b-58b5d3c757e0",
+      "userName": "Sandeep",
+      "email": "sandeep125@gmail.com"
+    },
+    {
+      "id": "917f3c28-442b-4bcd-b45e-f79fbe4e2207",
+      "userName": "Rohit",
+      "email": "rohit125@gmail.com"
+    },
+    {
+      "id": "037f0eb8-6647-4ce4-abcb-d83341ef3ed4",
+      "userName": "Rohan",
+      "email": "Rohan126@gmail.com"
+    },
+    {
+      "id": "33f6bf3a-6970-46c4-8b23-1654dc558551",
+      "userName": "Abheet",
+      "email": "Abheet129@gmail.com"
+    }
+  ]
+}
